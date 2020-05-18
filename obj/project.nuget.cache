@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IChKdvs/oRiu/bnMeNQbjCQ513Sx6OjoROIODiNNiZPBdmQhrj3cxrm7nruVYbNNSzBD+8yBq3pRWp3kfJxv1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EMİR\\Source\\Repos\\deneme2-mvc\\deneme2-mvc\\deneme2-mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EMİR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
